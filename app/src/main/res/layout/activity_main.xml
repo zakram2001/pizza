@@ -119,6 +119,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="155dp"
+        android:onClick="onPlaceOrderButtonClicked"
         android:text="Place Your Order"
         app:layout_constraintStart_toEndOf="@+id/TomatoesCheckBox"
         app:layout_constraintTop_toBottomOf="@+id/textView5" />
